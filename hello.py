@@ -10,3 +10,7 @@ def foo():
 
 def bar():
     print 'bar function'
+
+
+def delta():
+    print 'My first rebase'
