@@ -6,4 +6,7 @@ if __name__ == "__main__":
 
 def foo():
     print 'foo function'
-    
+
+
+def bar():
+    print 'bar function'
